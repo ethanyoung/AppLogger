@@ -6,7 +6,7 @@ namespace AppLogger
     {
         public void Log(string text)
         {
-            Console.WriteLine(text)
+            Console.WriteLine(text);
         }
     }
 }
